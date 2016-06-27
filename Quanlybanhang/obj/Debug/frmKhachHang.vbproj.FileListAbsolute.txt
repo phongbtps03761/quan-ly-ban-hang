@@ -1,0 +1,13 @@
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\bin\Debug\frmKhachHang.exe.config
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\bin\Debug\frmKhachHang.exe
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\bin\Debug\frmKhachHang.pdb
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\bin\Debug\frmKhachHang.xml
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\obj\Debug\frmKhachHang.vbprojResolveAssemblyReference.cache
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\obj\Debug\frmKhachHang.frmKhachHang.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\obj\Debug\frmKhachHang.Resources.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\obj\Debug\frmKhachHang.vbproj.GenerateResource.Cache
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\obj\Debug\frmKhachHang.exe
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\obj\Debug\frmKhachHang.xml
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\obj\Debug\frmKhachHang.pdb
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\obj\Debug\frmKhachHang.frmMain.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\frmKhachHang\bin\Debug\Quan ly ban hang.exe.config

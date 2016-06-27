@@ -1,0 +1,20 @@
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\bin\Debug\Quan ly ban hang.exe.config
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\bin\Debug\Quan ly ban hang.exe
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\bin\Debug\Quan ly ban hang.pdb
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\bin\Debug\Quan ly ban hang.xml
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\frmKhachHang.frmKhachHang.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\frmKhachHang.frmMain.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\frmKhachHang.Resources.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\Quan ly ban hang.vbproj.GenerateResource.Cache
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\Quan ly ban hang.exe
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\Quan ly ban hang.xml
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\Quan ly ban hang.pdb
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\Quan ly ban hang.vbprojResolveAssemblyReference.cache
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\frmKhachHang.frmLoaiSP.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\frmKhachHang.frmSanPham.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\frmKhachHang.frmHoaDon.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\frmKhachHang.frmGameCaro.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\frmKhachHang.frmFacebook.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\frmKhachHang.frmEDM.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\frmKhachHang.frmLichSu.resources
+D:\Hoc hanh\Dien Toan dam may\QL\QLBH\Quanlybanhang\obj\Debug\Quan ly ban hang.vbproj.ResolveComReference.cache
